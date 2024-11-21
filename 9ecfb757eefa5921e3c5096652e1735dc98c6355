@@ -1,0 +1,6 @@
+Verified-1: ORAN Required GHA <releng+oran.required.gha@linuxfoundation.org>
+Submitted-by: Matthew Watkins <mwatkins@linuxfoundation.org>
+Submitted-at: Thu, 21 Nov 2024 12:40:18 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/aiml-fw/apm/influx-wrapper/+/13333
+Project: aiml-fw/apm/influx-wrapper
+Branch: refs/heads/master
